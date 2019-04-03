@@ -1,5 +1,6 @@
 package cn.edu.seu.wh.template;
 
+
 public class Main {
     
     public static void main(String[] args){  
