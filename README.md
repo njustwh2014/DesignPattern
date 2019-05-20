@@ -7,5 +7,6 @@
 # [Chapter7: Abstract Factory模式](./content/7.abstractfactory.md)
 # [Chapter8: Bridge模式](./content/8.bridge.md)
 # [Chapter9: Strategy模式](./content/9.strategy.md)
+# [Chapter10: Composite模式](./content/9.composite.md)
 # DesignPattern
 Think in Design Pattern
